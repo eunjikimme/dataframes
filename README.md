@@ -8,8 +8,6 @@ hello  #hihi
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
-
-<https://google.com>
 [google check](https://google.com)
 
 
