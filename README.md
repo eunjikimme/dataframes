@@ -18,6 +18,9 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 
 ![![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
-!<b>Built with</b>
-!- [Electron](https://electron.atom.io)
+<b>Built with</b>
+
+Commit add/edit file in local repository
+Push add/edit file in remote repository
+
 
