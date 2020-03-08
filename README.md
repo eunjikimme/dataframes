@@ -10,11 +10,11 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
-## Code style
-This code mainly use python with pandas library.
+!## Code style
+!This code mainly use python with pandas library.
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+![![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
+!<b>Built with</b>
+!- [Electron](https://electron.atom.io)
 
