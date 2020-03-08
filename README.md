@@ -8,7 +8,8 @@ It is confusing to use merge, join and concat.
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
 [google check](https://google.com)
-[![mario](mario.png)]
+
+![mario](mario.png)
 
 <b>Built with</b>
 
