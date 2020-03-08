@@ -21,6 +21,6 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 <b>Built with</b>
 
 Commit add/edit file in local repository  
-#Push add/edit file in remote repository
+# Push add/edit file in remote repository
 
 
