@@ -11,7 +11,7 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 
 ![mario](mario.png)
 
-<b>Built with</b>
+<b>Image link and content</b>
 
 Commit add/edit file in local repository  
 Push add/edit file in remote repository
